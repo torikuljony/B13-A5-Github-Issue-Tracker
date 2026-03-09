@@ -68,8 +68,8 @@ const showData = (object)=>{
 
         const iconsrc =
         obj.status === "open"
-        ? "images/Open-Status.png"
-        : "images/Closed-Status.png";
+        ? "assets/images/Open-Status.png"
+        : "assets/images/Closed- Status .png";
 
         const div = document.createElement("div");
 
